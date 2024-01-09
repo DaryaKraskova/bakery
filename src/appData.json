@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "title": "Ёлка малая",
-        "price": 2000,
-        "description": "Высота: 1 м",
-        "category": "Ёлки-иголки",
-        "image": "https://sun6-23.userapi.com/s/v1/if1/zi9rcPz-ka6sjimAS7IjZie4wtTyNhN6jkYf3rCXG_4oM86ydg2mfJIolC7eF6NTx0Zm1g.jpg?size=1326x1326&quality=96&crop=47,47,1326,1326&ava=1",
+        "title": "Плюшка Московская",
+        "price": 50,
+        "description": "Московская плюшка похожа на сердце, сделанное из тонко раскатанного, как бы расплющенного, теста. – отсюда и название булочки.",
+        "category": "Сладкое",
+        "image": "http://melnica-ufa.ru/application/rapid/main/tovar/71_big_543.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -13,11 +13,11 @@
     },
     {
         "id": 2,
-        "title": "Ёлка средняя",
-        "price": 4000,
-        "description": "Высота: 1,5 м",
-        "category": "Ёлки-иголки",
-        "image": "https://www.zimushka-zima.ru/upload/iblock/e02/e02ab1b22a95955b5e6147a8639d851e.JPG",
+        "title": "Круассан со взбитыми сливками",
+        "price": 100,
+        "description": "Очень вкусный!",
+        "category": "Сладкое",
+        "image": "https://avatars.mds.yandex.net/get-altay/4234174/2a000001821b0da2e7d90ad2714fcb9f7df6/XXL",
         "rating": {
             "rate": 4.1,
             "count": 259
@@ -25,11 +25,11 @@
     },
     {
         "id": 3,
-        "title": "Ёлка большая",
-        "price": 6000,
-        "description": "Высота: 2 м",
-        "category": "Ёлки-иголки",
-        "image": "https://cache3.youla.io/files/images/780_780/5c/1b/5c1be19f66fb077ad044dfe4.jpg",
+        "title": "Венгерка с творогом",
+        "price": 80,
+        "description": "Нежнейшие!",
+        "category": "Сладкое",
+        "image": "https://xn--b1aqjenlka.xn--p1ai/img/recepty/3502/listing.jpg",
         "rating": {
             "rate": 4.7,
             "count": 500
@@ -37,11 +37,11 @@
     },
     {
         "id": 4,
-        "title": "Мандарины абхазские",
-        "price": 300,
-        "description": "Прямиком из Абхазии. Супер!",
-        "category": "Мандаринчики",
-        "image": "https://avatars.dzeninfra.ru/get-zen_doc/1677529/pub_6381ceb2b54aa645d43ec3d5_6381ceceb54aa645d43ecbb9/scale_1200",
+        "title": "Эчпочмак",
+        "price": 100,
+        "description": "Татарское национальное блюдо с картофелем и мясом.",
+        "category": "Солёное",
+        "image": "https://sun9-42.userapi.com/c837430/v837430053/c72b/bD966P7Rdco.jpg",
         "rating": {
             "rate": 2.1,
             "count": 430
@@ -49,11 +49,11 @@
     },
     {
         "id": 5,
-        "title": "Мандарины марокканские",
-        "price": 250,
-        "description": "Очень вкусные!",
-        "category": "Мандаринчики",
-        "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/906/270/716/916/175/4/100029232603b0.jpg",
+        "title": "Багет",
+        "price": 90,
+        "description": "Длинное и тонкое хлебобулочное изделие",
+        "category": "Солёное",
+        "image": "https://balthazar.club/uploads/posts/2023-01/1674302967_balthazar-club-p-khleb-estetika-krasivo-1.jpg",
         "rating": {
             "rate": 4.6,
             "count": 400
@@ -61,11 +61,11 @@
     },
     {
         "id": 6,
-        "title": "Мандарины купеческие",
-        "price": 500,
-        "description": "Выращиваем сами. Самые лучшие мандарины в мире!",
-        "category": "Мандаринчики",
-        "image": "https://w.forfun.com/fetch/c7/c7c9896f1237824499fa0ea43da5dd34.jpeg",
+        "title": "Самса с курицей",
+        "price": 100,
+        "description": "Вкусная!",
+        "category": "Солёное",
+        "image": "https://vse-svoe.ru/upload/iblock/7d0/dmizv9tp42lmhp01ro9gtg3zcmtec3rv.jpg",
         "rating": {
             "rate": 3.9,
             "count": 70
@@ -73,11 +73,11 @@
     },
     {
         "id": 7,
-        "title": "Оливье",
-        "price": 600,
-        "description": "Стандарт",
-        "category": "Салатики",
-        "image": "https://k1news.ru/wp-content/uploads/2020/12/i.jpg",
+        "title": "Сметанник",
+        "price": 800,
+        "description": "Бисквитный слоёный торт",
+        "category": "Торты",
+        "image": "https://mykaleidoscope.ru/uploads/posts/2021-09/1632263279_62-mykaleidoscope-ru-p-tort-pesht-krasivo-foto-63.jpg",
         "rating": {
             "rate": 3,
             "count": 400
@@ -85,11 +85,11 @@
     },
     {
         "id": 8,
-        "title": "Крабовый",
-        "price": 400,
-        "description": "Не из крабов, но тоже вкусный",
-        "category": "Салатики",
-        "image": "https://windowman.ru/wp-content/uploads/7/f/0/7f03b9364f94689159f4c73aea42dbf3.jpeg",
+        "title": "Наполеон",
+        "price": 1000,
+        "description": "Многослойный торт из слоёного теста с масляным кремом",
+        "category": "Торты",
+        "image": "https://lobsterhouse.ru/wp-content/uploads/3/9/3/39370cc01786363472471730956e4459.jpeg",
         "rating": {
             "rate": 1.9,
             "count": 100
@@ -97,11 +97,11 @@
     },
     {
         "id": 9,
-        "title": "Греческий",
+        "title": "Полёт",
         "price": 1500,
-        "description": "Прямиком из греции от лучшего шеф-повара",
-        "category": "Салатики",
-        "image": "https://podacha-blud.com/uploads/posts/2021-07/1627062715_34-p-originalnaya-podacha-grecheskogo-salata-v-39.jpg",
+        "description": "Лёгкий воздушный торт с ореховыми нотами",
+        "category": "Торты",
+        "image": "https://mykaleidoscope.ru/uploads/posts/2021-09/1632122929_9-mykaleidoscope-ru-p-tort-polet-krasivo-foto-9.jpg",
         "rating": {
             "rate": 3.3,
             "count": 203
