@@ -102,7 +102,7 @@ export default {
       let order = {
         id: null,
         good_id: id,
-        phone: prompt("Введите номер телефона", "Не помню...")
+        phone: prompt("Введите номер телефона", "Я передумал")
       };
 
       let response = await fetch('/api/orders.php', {
