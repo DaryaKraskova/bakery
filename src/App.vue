@@ -68,7 +68,7 @@
                   {{ good.description }}
                 </b-card-text>
                 <h3>{{good.price}}</h3>
-                <b-button href="#" variant="primary">Купить</b-button> 
+                <b-button href="#" variant="primary" @click="bay(good.id)">Купить</b-button> 
               </b-card>
             </b-col>
           </b-row>
